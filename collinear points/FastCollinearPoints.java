@@ -113,5 +113,9 @@ public class FastCollinearPoints {
 		
 		return collinearPoints.toArray(new LineSegment[collinearPoints.size()]);
 	}
+
+	private void test() {
+		
+	}
 	
 }
